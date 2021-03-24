@@ -1,4 +1,4 @@
-# Hello Devs💻... 🖐
+  # Hello Devs💻... 🖐
 
 
 I'm Roland Manful MWEZE, a software engineer and passionate about High-tech.<br>
@@ -13,5 +13,6 @@ I have skills in front-end devellopement, IoT, SEO and Blogging.
 When i'm not writing code, i prefer spend my time to read books, play chess ♙ and create content of blog about discovery .
 I'am interested about new challenges, feel free to contact me :
 
-<li> <a href="https://www.linkedin.com/in/roland-n-mweze-8b1045189/">✦LinkedIn✦ </a><a href="https://twitter.com/ManfulMwez"> ✦Twitter✦ </a></li>
+<ul>       <a href="https://www.linkedin.com/in/roland-n-mweze-8b1045189/">✦LinkedIn✦ </a><a href="https://twitter.com/ManfulMwez"> ✦Twitter✦ </a></ul>
 
+  
