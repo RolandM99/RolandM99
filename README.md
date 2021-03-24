@@ -1,8 +1,9 @@
+  # ELECTRONICS ENGINEERING | SOFTWARE ENGINEERING | IoT | BLOGGING | CONTENT CREATOR | 
   # Hello Devs💻... 🖐
 
 
-I'm Roland Manful MWEZE, a software engineer and passionate about High-tech.<br>
-I have skills in front-end devellopement, IoT, SEO and Blogging.
+My name is Roland Manful MWEZE, I'm software engineer and passionate about High-tech.<br>
+My biggest challenge is to put my skills to the service of our communities,innovated by engineering for a smart and sustainable development.
 
   <ul>
    <li>I love take cofee &#9749; or liquor 🥃 with friends and discuss about quantum physics</li>
