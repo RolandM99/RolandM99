@@ -1,12 +1,12 @@
-  # ELECTRONICS ENGINEERING | SOFTWARE ENGINEERING | IoT | BLOGGING | CONTENT CREATOR | 
-  # Hello Devs💻... 🖐
+  ## ELECTRONICS ENGINEERING | SOFTWARE ENGINEERING | IoT | BLOGGING | CONTENT CREATOR | 
+  ## Hello Devs💻... 🖐
 
 
 My name is Roland Manful MWEZE, I'm software engineer and passionate about High-tech.<br>
 My biggest challenge is to put my skills to the service of our communities, innovated by engineering for a smart and sustainable development.
 
   <ul>
-   <li>I love take cofee &#9749; or liquor 🥃 with friends and discuss about quantum physics</li>
+   <li>I love take cofee &#9749; with friends and discuss about quantum physics</li>
    <li>I love travel ✈ through the world and i'm obssess by new challenges!</li>
    <li> &#9203; Now I'm about to learn JS and his libraries React and Redux </li>
   </ul> 
