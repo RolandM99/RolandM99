@@ -10,6 +10,8 @@ I have skills in front-end devellopement, IoT, SEO and Blogging.
    <li> &#9203; Now am about to learn JS and his libraries React and Redux </li>
   </ul> 
   
-When i'm not writing code, i prefer spend my time to read books, write poetry and create content of blog about discovery .
-I'm motivated about new challenges.
+When i'm not writing code, i prefer spend my time to read books, play chess ♙ and create content of blog about discovery .
+I'am interested about new challenges, feel free to contact me :
+
+<li> <a href="https://www.linkedin.com/in/roland-n-mweze-8b1045189/">✦LinkedIn✦ </a><a href="https://twitter.com/ManfulMwez"> ✦Twitter✦ </a></li>
 
