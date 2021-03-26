@@ -11,7 +11,7 @@ My biggest challenge is to put my skills to the service of our communities, inno
    <li> &#9203; Now I'm about to learn JS and his libraries React and Redux </li>
   </ul> 
   
-When i'm not writing code, i prefer spend my time to read books, play chess ♙ and create content of blog about discovery .
+When i'm not writing code, i prefer spend my time to read books, play chess <span style='font-size:50px;'>&#9823;</span> and create content of blog about discovery .
 I'am interested about new challenges, feel free to contact me :
 
 <ul>       <a href="https://www.linkedin.com/in/roland-n-mweze-8b1045189/">✦LinkedIn✦</a><a href="https://twitter.com/ManfulMwez">✦Twitter✦ </a></ul>
