@@ -3,7 +3,7 @@
   ## Hello Devs💻...🖐
 
 
-My name is Roland Manful MWEZE, I'm software engineer and passionate about High-tech.<br>
+My name is Roland Manful MWEZE, I'm a software engineer and passionate about High-tech.<br>
 My biggest challenge is to put my skills to the service of our communities, innovated by engineering for a smart and sustainable development.
 
   <ul>
