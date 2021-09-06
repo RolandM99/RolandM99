@@ -11,8 +11,7 @@ My biggest challenge is to put my skills to the service of our communities, inno
   </ul> 
   
 When i'm not writing code, i prefer to spend my time to read books, play chess <span style='font-size:50px;'>&#9823;</span> and create content of blog about discovery .
-I'am interested about new challenges and new opportunities, feel free to contact me :
-
-<ul>       <a href="https://www.linkedin.com/in/roland-n-mweze-8b1045189/">✦LinkedIn✦</a><a href="https://twitter.com/ManfulMwez">✦Twitter✦ </a></ul>
+<br>I'am interested about new challenges and new opportunities, feel free to contact me : <br>
+     <ul style="text-align:center;"><a href="https://www.linkedin.com/in/roland-n-mweze-8b1045189/">✦LinkedIn✦</a><a href="https://twitter.com/ManfulMwez">✦Twitter✦ </a></ul>
 
   
