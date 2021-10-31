@@ -7,7 +7,7 @@ My biggest challenge is to put my skills to the service of our communities, inno
   <ul>
    <li>I love take cofee &#9749; with friends and discuss about quantum physics</li>
    <li>I love travel ✈ through the world and i'm curious on new discovery</li>
-   <li> &#9203; I'm currently attending Full-Stack Software Development at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/></a>  </li>
+   <li> &#9203; I'm currently learning Full-Stack Software Development at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/></a>  </li>
   </ul> 
   
 When i'm not writing code, i prefer spend my time reading books, play chess <span style='font-size:50px;'>&#9823;</span> and create content of blog about discovery .
