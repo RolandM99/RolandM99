@@ -1,5 +1,5 @@
   
-<img align="center" src="screenshot.jpg" alt="drawing" width="120" border="10px" border-radius="20px"/>
+<p align ="center"><img src="screenshot.jpg" alt="drawing" width="120" border="10px" border-radius="20px"></p>
 <br>
 
 #  Hello World💻....🖐
