@@ -9,10 +9,10 @@
 
    - ⚡ Quick bio: A kind of AvidLearner-perfectAddict-traveler-foodLover-coder-programmer
 		- 🎓 Degree: Last year student in Software Engineering (Bachelor degree)
-		- 🌱 I’m currently learning": Full-Stack software developement (**HTML,CSS,Javascript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/></a>  --- Sharpening my Skills for Angular and Flutter (Personal goal)",
+		- 🌱 I’m currently learning: Full-Stack software developement (**HTML,CSS,Javascript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/></a>  --- Sharpening my Skills for Angular and Flutter (Personal goal)",
 		- 👯 I am curiously looking forward to working with teams in building, Project Management Systems, web applications, and viable software solutions.
-		- 🤔 I’m looking for help with": Anything related to what I am currently learning 😅,
-		- 💬 Ask me about": Software Design, process & Architecture, Web-Dev and SEO.<br>
+		- 🤔 I’m looking for help with: Anything related to what I am currently learning 😅,
+		- 💬 Ask me about: Software Design, process & Architecture, Web-Dev and SEO.<br>
   **I'am interested about new challenges and new opportunities 📫 How to reach me:**
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manfulmweze99@gmail.com)
