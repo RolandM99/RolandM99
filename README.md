@@ -7,7 +7,7 @@
 <h2 align="center">About me</h2
 
 
-   - ⚡ Quick bio: A kind of AvidLearner-perfectAddict-traveler-foodLover-coder-programmer
+   - ⚡ Quick bio: A kind of an avid learner, a perfect addict, a traveler, a food lover, a coder-programmer
 		- 🎓 Degree: Last year student in Software Engineering (Bachelor degree)
 		- 🌱 I’m currently learning: Full-Stack software developement (**HTML,CSS,Javascript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/></a>  --- Sharpening my Skills for Angular and Flutter (Personal goal)",
 		- 👯 I am curiously looking forward to working with teams in building, Project Management Systems, web applications, and viable software solutions.
