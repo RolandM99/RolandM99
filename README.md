@@ -8,18 +8,20 @@
 
 
    - ⚡ Quick bio: A kind of an avid learner, a perfect addict, a traveler, a food lover, a coder-programmer
-		- 🎓 Degree: Last year student in Software Engineering (Bachelor degree)
-		- 🌱 I’m currently learning: Full-Stack software developement (**HTML,CSS,Javascript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/></a>  --- Sharpening my Skills for Angular and Flutter (Personal goal)",
-		- 👯 I am curiously looking forward to working with teams in building, Project Management Systems, web applications, and viable software solutions.
-		- 🤔 I’m looking for help with: Anything related to what I am currently learning 😅,
-		- 💬 Ask me about: Software Design, process & Architecture, Web-Dev and SEO.<br>
-  **I'am interested about new challenges and new opportunities 📫 How to reach me:**
+   - 🎓 I'm currently study Software Engineering (Bachelor degree) at Adventist University of Central Africa
+   - 🌱 I’m currently learning Full-Stack software developement (**HTML,CSS,Javascript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a   
+	     href="https://microverse.org">Microverse</a>  --- Sharpening my Skills for Angular and Flutter (Personal goal)",
+   - 👯 I am curiously looking forward to working with teams in building, Project Management Systems, web applications, and viable software solutions.
+   - 🤔 I’m looking for help with: Anything related to what I am currently learning 😅,
+   - 💬 Ask me about: Software Design, process & Architecture, Web-Dev and SEO.<br>
+  **I'am interested about new challenges and new opportunities<br>
+	📫 How to reach me:**
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manfulmweze99@gmail.com)
+<br>[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manfulmweze99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roland-n-mweze-8b1045189/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManfulMwez)
 
-# My stack :
+# Stacks :
 >Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past.
 ##### Languages I use
 
