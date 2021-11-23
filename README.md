@@ -4,17 +4,17 @@
 
 #  Hello World💻....🖐
 
-<h2 align="center">About me</h2
+<h2 align="center">About me</h2>
 
 
    - ⚡ Quick bio: A kind of an avid learner, a perfect addict, a traveler, a food lover, a coder-programmer
    - 🎓 I'm currently study Software Engineering (Bachelor degree) at Adventist University of Central Africa
-   - 🌱 I’m currently learning Full-Stack software developement (**HTML,CSS,Javascript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a   
+   - 🌱 I’m currently learning Full-Stack software developement (**HTML,CSS,JavaScript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a   
 	     href="https://microverse.org">Microverse</a>  --- Sharpening my Skills for Angular and Flutter (Personal goal)",
    - 👯 I am curiously looking forward to working with teams in building, Project Management Systems, web applications, and viable software solutions.
-   - 🤔 I’m looking for help with: Anything related to what I am currently learning 😅,
-   - 💬 Ask me about: Software Design, process & Architecture, Web-Dev and SEO.<br>
-  **I'am interested about new challenges and new opportunities<br>
+   - 🤔 I’m looking for help with anything related to what I am currently learning 😅,
+   - 💬 Ask me about Software Design, process & Architecture, IoT, Web-Dev and SEO.<br>
+  **I'am open to work and interested about new challenges and new opportunities<br>
 	📫 How to reach me:**
 
 <br>[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manfulmweze99@gmail.com)
