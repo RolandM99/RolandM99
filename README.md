@@ -10,7 +10,7 @@
    - ⚡ Quick bio: A kind ofp an avid learner, a perfect addict, a traveler, a food lover, a coder-programmer
    - 🎓 I'm currently study Software Engineering (Bachelor degree) at Adventist University of Central Africa
    - 🌱 I’m currently learning Full-Stack software developement (**HTML,CSS,JavaScript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a   
-	     href="https://microverse.org">Microverse</a>  --- Sharpening my Skills for Angular and Flutter (Personal goal)",
+	     href="https://microverse.org">Microverse</a>  --- Sharpening my Skills for Machine learning and Artificial Intelligence (Personal goal)",
    - 👯 I am curiously looking forward to working with teams in building, Project Management Systems, web applications, and viable software solutions.
    - 🤔 I’m looking for help with anything related to what I am currently learning 😅,
    - 💬 Ask me about Software Design, process & Architecture, IoT, Web-Dev and SEO.<br>
