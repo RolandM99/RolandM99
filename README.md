@@ -7,7 +7,7 @@
 <h2 align="center">About me</h2>
 
 
-   - ⚡ Quick bio: A kind ofp an avid learner, a perfect addict, a traveler, a food lover, a coder-programmer
+   - ⚡ Quick bio: I'm kind of an avid learner, a perfect addict, a traveler, a food lover and a coder-programmer
    - 🎓 I'm currently study Software Engineering (Bachelor degree) at Adventist University of Central Africa
    - 🌱 I’m currently learning Full-Stack software developement (**HTML,CSS,JavaScript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a   
 	     href="https://microverse.org">Microverse</a>  --- Sharpening my Skills for Machine learning and Artificial Intelligence (Personal goal)",
