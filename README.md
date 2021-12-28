@@ -2,7 +2,7 @@
 <p align ="center"><img src="screenshot.jpg" alt="drawing" width="120" border="10px" border-radius="20px"></p>
 <br>
 
-#  Hello World💻...🖐
+#  Hello Devs💻...🖐
 
 <h2 align="center">About me</h2>
 
