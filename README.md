@@ -4,7 +4,7 @@
 
 #  Hello Devs💻...🖐
 
-<h2 align="center">About me</h2>
+<h2 align="center">ABOUT ME</h2>
 
 
    - ⚡ Quick bio: I'm a kind of an avid learner, a perfect addict, a traveler, a food lover and a coder/programmer
