@@ -13,7 +13,7 @@
 	     href="https://microverse.org">Microverse</a>  --- Sharpening my Skills for Machine learning and Artificial Intelligence (Personal goal)",
    - 👯 I'm curiously looking forward to working with teams in building, Software Project Management, web applications, and viable software solutions.
    - 🤔 I’m looking for help with anything related to what I am currently learning 😅,
-   - 💬 Ask me about Software Design, process & Architecture, IoT, Web Development and SEO.<br>
+   - 💬 Ask me about Software Design, process & Architecture, IoT and Web Development.<br>
   **I'am open to work and interested about new challenges and new opportunities<br>
 	📫 How to reach me:**
 
