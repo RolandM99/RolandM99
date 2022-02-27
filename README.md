@@ -8,7 +8,7 @@
 
 
    - ⚡ Quick bio: I'm an avid learner, a perfect addict, a problem solver, a coder and programmer at heart.
-   - 🎓 I'm currently study Software Engineering at Adventist University of Central Africa
+   - 🎓 I'm currently study Software Engineering at Adventist University of Central Africa(AUCA)
    - 🌱 I’m currently learning Full-Stack software developement (**HTML,CSS,JavaScript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a   
 	     href="https://microverse.org">Microverse</a>  --- Sharpening my Skills for Machine learning and Artificial Intelligence (Personal goal)",
    - 👯 I'm curiously looking forward to working with teams in building, Software Project Management, web applications, and viable software solutions.
