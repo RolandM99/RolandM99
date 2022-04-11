@@ -59,9 +59,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rolandm99&show_icons=true&theme=synthwave" alt="Rolandm99 :: Profile Stats" /></p>
 
-  ## "Simplicity is the soul of efficiency" <br>  
-   #### The harder we solve problems ++
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="400"></p>
 
 ⭐️ From [@RolandM99](https://github.com/rolandm99)
   
