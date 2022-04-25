@@ -7,7 +7,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 
-   - ⚡ Quick bio: I'm an avid learner, a perfect addict, a problem solver, a coder and programmer at heart.
+   - ⚡ Quick bio about me: I'm an avid learner, a perfect addict, a problem solver, a coder and programmer at heart.
    - 🎓 Last year student in Software Engineering at Adventist University of Central Africa(AUCA)
    - 🌱 I’m currently learning Full-Stack software developement (**HTML,CSS,JavaScript,React & Redux, Ruby, Ruby On Rails, PostgreSQL**) at <a   
 	     href="https://microverse.org">Microverse</a>  --- Sharpening my Skills for Machine learning and Artificial Intelligence (Personal goal)",
