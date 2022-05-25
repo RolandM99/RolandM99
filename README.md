@@ -8,7 +8,7 @@
 
 
    - ⚡ Quick bio: I'm an avid learner, a problem solver, a coder and programmer at heart.
-   - 🎓 Last year student in Software Engineering at Adventist University of Central Africa
+   - 🎓 Last year student in Software Engineering at Adventist University of Central Africa(AUCA)
    - 🌱 I’m currently sharpening my skills in software development by learning new concepts and working on some real-world projects.
    - 👯 I'm curiously looking forward to working with teams in building, Software Project Management, web applications, and viable software solutions.
    - 🤔 I’m looking for help with anything related to what I am currently learning 😅,
