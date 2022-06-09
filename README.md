@@ -50,13 +50,9 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{rolandm99}/count.svg" alt="roland :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+|<h4 align="center">Top langs :tongue:</h4><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandm99&langs_count=10&theme=tokyonight&layout=compact" alt="Rolandm99 :: Top Langs" /></p>|<h4 align="center">Profile stats :musical_keyboard:</h4><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rolandm99&show_icons=true&theme=synthwave" alt="Rolandm99 :: Profile Stats" /></p>|
+|----|----|
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandm99&langs_count=10&theme=tokyonight&layout=compact" alt="Rolandm99 :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rolandm99&show_icons=true&theme=synthwave" alt="Rolandm99 :: Profile Stats" /></p>
 
 
 ⭐️ From [@RolandM99](https://github.com/rolandm99)
