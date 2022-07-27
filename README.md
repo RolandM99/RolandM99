@@ -22,26 +22,22 @@
 
 # Stacks :
 >Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past.
-##### Languages:
+##### Languages and Technologies:
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFA500)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=FF0000)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Ruby on Rails](https://img.shields.io/badge/-RoR-000000?style=flat&logo=rubyonrails&logoColor=FF0000)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![star UML](https://img.shields.io/badge/-starUML-000000?style=flat&logo=&logoColor=6DB33F)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=181717)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
-##### Technologies:
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Ruby on Rails](https://img.shields.io/badge/-RoR-222222?style=flat&logo=rubyonrails&logoColor=FF0000)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![star UML](https://img.shields.io/badge/-starUML-222222?style=flat&logo=&logoColor=6DB33F)
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
