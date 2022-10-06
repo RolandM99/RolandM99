@@ -30,6 +30,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=FF0000)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=339933)
 ![Ruby on Rails](https://img.shields.io/badge/-RoR-000000?style=flat&logo=rubyonrails&logoColor=FF0000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![star UML](https://img.shields.io/badge/-starUML-000000?style=flat&logo=&logoColor=6DB33F)
