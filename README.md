@@ -26,6 +26,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFA500)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=FF0000)
