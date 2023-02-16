@@ -21,7 +21,7 @@
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManfulMwez)
 
 # Stacks :
->Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past.
+>Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with in the past.
 ##### Languages and Technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
