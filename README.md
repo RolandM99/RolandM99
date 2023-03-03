@@ -7,7 +7,7 @@
 <h2 align="center">ABOUT  ME</h2>
 
 
-   - ⚡ Avid learner, Chess fan, problem solver, coder and programmer at heart.
+   - ⚡ Avid learner, chess fan, problem solver, coder and programmer at heart.
    - 🎓 Bachelor degree in Software Engineering at Adventist University of Central Africa.
    - 🌱 I’m currently sharpening my skills in software development by learning new concepts and working on some real-world projects.
    - 👯 I'm curiously looking forward to working with teams in building, Software Project Management, web applications, and viable software solutions.
