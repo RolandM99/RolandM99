@@ -9,7 +9,7 @@
 
    - ⚡ Avid learner, chess fan, problem solver, coder and programmer at heart.
    - 🎓 Bachelor degree in Software Engineering at Adventist University of Central Africa.
-   - 🌱 I’m currently sharpening my skills in software development by learning new concepts and working on some real-world projects.
+   - 🌱 I’m currently working as a web3 developer at NGENI LABs and sharpening my skills in Blockchain and AI by learning new concepts and working on some real-world projects.
    - 👯 I'm curiously looking forward to working with teams in building, Software Project Management, web applications, and viable software solutions.
    - ⭐ I’m looking for help with anything related to what I am currently learning 😅,
    - 💬 Ask me about Software Design, Process, Modeling & Architecture, IoT and Web Development.<br>
