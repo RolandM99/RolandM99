@@ -12,7 +12,7 @@
    - 🌱 I’m currently working as a web3 developer at NGENI LABs and sharpening my skills in Blockchain and AI by learning new concepts and working on some real-world projects.
    - 👯 I'm curiously looking forward to working with teams in building, Software Project Management, web applications, and viable software solutions.
    - ⭐ I’m looking for help with anything related to what I am currently learning 😅,
-   - 💬 Ask me about Software Design, Process, Modeling & Architecture, IoT and Web Development.<br>
+   - 💬 Ask me about the 6 stages of Software Development LifeCycle.<br>
   **I'am open and interested about new challenges and new opportunities<br>
 	📫 How to reach me:**
 
