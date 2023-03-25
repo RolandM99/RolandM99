@@ -4,7 +4,7 @@
 
 #  Hello Devs...👋
 
-<h2 align="center">ABOUT  ME</h2>
+<h2 align="center">ABOUT ME</h2>
 
 
    - ⚡ Avid learner, chess fan, problem solver, coder and programmer at heart.
