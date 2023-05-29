@@ -20,9 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roland-n-mweze-8b1045189/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManfulMwez)
 
-# Stacks :
->Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with in the past.
-##### Languages and Technologies:
+## Tools and Technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
