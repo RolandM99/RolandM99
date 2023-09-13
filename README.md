@@ -1,5 +1,5 @@
 
-#  Hello Devs... 👋
+#  Hello Devs!... 👋
 
 <h2 align="center">ABOUT ME</h2>
 
