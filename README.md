@@ -4,7 +4,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 
-   - ⚡ Avid learner, chess fan, problem solver, coder, and programmer at heart.
+   - ⚡ Avid learner, chess fan, problem solver, dynamic and result-oriented software engineer
    - 🎓 Bsc. in Software Engineering at the Adventist University of Central Africa.
    - 🌱 I’m currently working as a web3 Software developer at NGENI LABs and sharpening my skills in Blockchain and AI by learning new concepts and working on some real-world projects.
    - 👯 I'm curiously looking forward to working with teams in building reusable, maintainable, scalable, and viable software solutions.
