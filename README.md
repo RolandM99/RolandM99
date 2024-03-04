@@ -1,5 +1,5 @@
 
-#  Hello World! 👋
+#  Hello World 👋
 
 <h2 align="center">ABOUT ME</h2>
 
