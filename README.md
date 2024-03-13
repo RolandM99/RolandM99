@@ -1,5 +1,5 @@
 
-#  Hello Devs... 👋
+#  Hello Devs 👋
 
 <h2 align="center">ABOUT ME</h2>
 
@@ -11,7 +11,7 @@
    - ⭐ I’m looking for help with anything related to what I am currently learning 😅,
    - 💬 Ask me about the 6 stages of Software Development LifeCycle.<br><br>
   **I am open and interested in new challenges and new opportunities<br>
-	📫 How to reach me:**
+	📫 How to get in touch with me:**
 
 <br>[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manfulmweze99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roland-mweze/)
