@@ -1,11 +1,11 @@
 
-#  Hello Devs! 👋
+#  Hello Devs 👋
 
 <h2 align="center">ABOUT ME</h2>
 
 
    - ⚡ Avid learner, chess fan, problem solver, dynamic and result-oriented software engineer
-   - 🎓 Bsc. in Software Engineering at the Adventist University of Central Africa ( AUCA ).
+   - 🎓 Bsc. in Software Engineering at the Adventist University of Central Africa (AUCA).
    - 🌱 I’m currently working as a full-stack software engineer and sharpening my skills in Blockchain and AI by learning new concepts and working on some real-world projects.
    - 👯 I'm curiously looking forward to working with teams in building reusable, maintainable, scalable, and viable software solutions.
    - ⭐ I’m looking for help with anything related to what I am currently learning 😎,
