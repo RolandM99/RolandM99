@@ -4,7 +4,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 
-   - ⚡ An avid learner, chess fan, problem solver, dynamic and result-oriented software engineer.
+   - ⚡ Avid learner, chess fan, problem solver, dynamic and result-oriented software engineer.
    - 🎓 Bachelor's degree in Software Engineering at the Adventist University of Central Africa (AUCA).
    - 🌱 Currently I'm working as a full-stack software engineer and sharpening my skills in Blockchain and AI by learning new concepts and working on some real-world projects.
    - 🎯 Curiously I'm looking forward to working with teams in building reusable, maintainable, scalable, and viable software solutions.
