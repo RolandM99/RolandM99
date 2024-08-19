@@ -1,8 +1,7 @@
 
 #  Hello Devs 👋
 
-<h2 align="center">ABOUT ME</h2>
-
+## About me
 
    - ⚡ Problem solver, dynamic and result-oriented software engineer.
    - 🎓 Bachelor's degree in Software Engineering at the Adventist University of Central Africa (AUCA).
