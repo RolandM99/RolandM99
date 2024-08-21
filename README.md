@@ -1,20 +1,18 @@
 
-#  Hello Devs 👋
+#  Hello Devs... 👋
 
-## About me
+<div align="center">
+  <p style="text-align: center; max-width: 600px; margin: auto;">
+    I'm a Software Engineer with 3+ years of hands-on experience building robust, scalable, and maintainable solutions. I thrive on turning complex problems into elegant, efficient code. My sweet spot? Creating enterprise-level applications that stand the test of time and scale.
+    I've got a knack for the full SDLC and enjoy architecting systems from the ground up. Fintech and emerging tech? That's my jam. Always keeping an eye on what's next in the industry.
+    When I'm not knee-deep in code, you'll find me strategizing my next move on the chess board. Team player by nature, and I bring that same collaborative spirit to every project I tackle.
+  </p>
 
-   - ⚡ Problem solver, dynamic and result-oriented software engineer.
-   - 🎓 Bachelor's degree in Software Engineering at the Adventist University of Central Africa (AUCA).
-   - 🌱 Currently I'm working as a full-stack software engineer and sharpening my skills in Blockchain and AI by learning new concepts and working on some real-world projects.
-   - 🎯 Curiously I'm looking forward to working with teams in building reusable, maintainable, scalable, and viable software solutions.
-   - ⭐ I’m looking for help with anything related to what I'm currently learning
-   - 💬 Ask me about the 6 stages of Software Development LifeCycle.<br><br>
-  **I am open and interested in new challenges and new opportunities<br>
-	📫 How to get in touch with me:**
 
 <br>[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manfulmweze99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roland-mweze/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManfulMwez)
+</div>
 
 ## Tools and Technologies:
 
