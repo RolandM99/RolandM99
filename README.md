@@ -3,7 +3,7 @@
 
 <div align="center">
   <p style="text-align: center; max-width: 600px; margin: auto;">
-    I'm a Software Engineer with 3+ years of hands-on experience building robust, scalable, and maintainable software solutions.
+    I'm a Software Engineer with over 3 years of hands-on experience building robust, scalable, and maintainable software solutions.
 I thrive on turning complex problems into elegant, efficient code. My sweet spot? Creating enterprise-level applications that stand the test of time and scale.
     I've got a knack for the full SDLC and enjoy architecting systems from the ground up. Fintech and emerging tech? That's my jam. I am always keeping an eye on what's next in the industry.
     When I'm not knee-deep in code, you'll find me strategizing my next move on the chess board. I am naturally a team player, and I bring that same collaborative spirit to every project I tackle.
