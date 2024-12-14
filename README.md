@@ -1,5 +1,5 @@
 
-#  Hello Devs! 👋
+#  Hello! 👋
 
 <div align="center">
   <p style="text-align: center; max-width: 600px; margin: auto;">
