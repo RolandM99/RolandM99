@@ -29,7 +29,7 @@ I thrive on turning complex problems into elegant, efficient code. My sweet spot
 ![star UML](https://img.shields.io/badge/-starUML-000000?style=flat&logo=&logoColor=6DB33F)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=181717)
-![NestJS](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=nest.js&logoColor=0769AD)
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nest.js&logoColor=FF0000)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 
