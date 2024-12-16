@@ -19,17 +19,17 @@ I thrive on turning complex problems into elegant, efficient code. My sweet spot
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Nest](https://img.shields.io/badge/Nest.js-000000.svg?logo=nestjs&logoColor=FF0000)
 ![PostgreSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=FF0000)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=339933)
 ![Ruby on Rails](https://img.shields.io/badge/-RoR-000000?style=flat&logo=rubyonrails&logoColor=FF0000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![star UML](https://img.shields.io/badge/-starUML-000000?style=flat&logo=&logoColor=6DB33F)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=181717)
-![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 
