@@ -16,7 +16,7 @@ I thrive on turning complex problems into elegant, efficient code. My sweet spot
 💻   JavaScript | TypeScript | Solidity | Ruby <br/>
 🛠   NodeJS | NestJS | Express | React | NextJS | Ruby on Rails <br/>
 🛢   MySQL | MongoDB | PostgeSQL <br/>
-🌱   I'm currently learning Go(Programing language) and System Architecture
+🌱   I'm currently learning Go(Programing language) and System Architecture <br/>
 🔧   Git | GitHub | Jira | Agile | Docker | Kubernetes | RabbitMQ | Redis 
 
 <div align="center">
