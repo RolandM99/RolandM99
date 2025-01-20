@@ -10,12 +10,14 @@ I thrive on turning complex problems into elegant, efficient code. My sweet spot
   </p>
 </div>
 
-## 🛠 Tech Stack
+## Bio
 
+🎓   BSc. in Software Engineering at AUCA
 💻   JavaScript | TypeScript | Solidity | Ruby <br/>
 🛠   NodeJS | NestJS | Express | React | NextJS | Ruby on Rails <br/>
 🛢   MySQL | MongoDB | PostgeSQL <br/>
-🔧   Git | GitHub | Jira | Agile | Docker | Kubernetes | RabbitMQ | Redis | Software Architecture
+🌱   I'm currently learning Go(Programing language) and System Architecture
+🔧   Git | GitHub | Jira | Agile | Docker | Kubernetes | RabbitMQ | Redis 
 
 <div align="center">
 
