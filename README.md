@@ -12,7 +12,7 @@ I thrive on turning complex problems into elegant, efficient code. My sweet spot
 
 ## About Me
 
-🎓   BSc. in Software Engineering at AUCA
+🎓   BSc. in Software Engineering at AUCA <br/>
 💻   JavaScript | TypeScript | Solidity | Ruby <br/>
 🛠   NodeJS | NestJS | Express | React | NextJS | Ruby on Rails <br/>
 🛢   MySQL | MongoDB | PostgeSQL <br/>
