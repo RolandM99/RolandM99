@@ -10,7 +10,7 @@ I thrive on turning complex problems into elegant, efficient code. My sweet spot
   </p>
 </div>
 
-## Bio
+## About Me
 
 🎓   BSc. in Software Engineering at AUCA
 💻   JavaScript | TypeScript | Solidity | Ruby <br/>
