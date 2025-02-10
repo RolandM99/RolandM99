@@ -1,5 +1,5 @@
 
-#  Hello👋, I'm Roland Mweze
+#  Hello👋, I am Roland Mweze
 
 <div align="center">
   <p style="text-align: center; max-width: 600px; margin: auto;">
