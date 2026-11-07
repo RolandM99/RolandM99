@@ -6,7 +6,7 @@
     Software Engineer with 5+ years of hands-on experience building robust, scalable, and maintainable software solutions.
 I thrive on turning complex problems into elegant, efficient code. My sweet spot? Creating enterprise-level applications that stand the test of time and scale.
     I've got a knack for the full SDLC and enjoy architecting systems from the ground up. Fintech and emerging tech? That's my jam. I am always keeping an eye on what's next in the industry.
-    When I'm not knee-deep in code, you'll find me strategizing my next move on the chess board. I am naturally a team player, bringing that same collaborative spirit to every project I tackle.
+    When I'm not knee-deep in code, you'll find me strategizing my next move on the chessboard. I am naturally a team player, bringing that same collaborative spirit to every project I tackle.
   </p>
 </div>
 
@@ -16,7 +16,7 @@ I thrive on turning complex problems into elegant, efficient code. My sweet spot
 💻   JavaScript | TypeScript | Solidity | Ruby <br/>
 🛠   NodeJS | NestJS | Express | React | NextJS | Ruby on Rails <br/>
 🛢   MySQL | MongoDB | PostgeSQL <br/>
-🌱   I'm currently learning Go(Programing language) and System Architecture <br/>
+🌱   I'm currently learning Deep Learning for computer Vision and System Architecture <br/>
 🔧   Git | GitHub | Jira | Agile | Docker | Kubernetes | RabbitMQ | Redis 
 
 <div align="center">
