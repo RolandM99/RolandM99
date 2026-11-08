@@ -13,7 +13,7 @@ I thrive on turning complex problems into elegant, efficient code. My sweet spot
 ## About Me
 
 🎓   BSc. in Software Engineering <br/>
-💻   JavaScript | TypeScript | Solidity | Ruby <br/>
+💻   JavaScript | TypeScript | Go | Solidity | Ruby <br/>
 🛠   NodeJS | NestJS | Express | React | NextJS | Ruby on Rails <br/>
 🛢   MySQL | MongoDB | PostgeSQL <br/>
 🌱   I'm currently learning Deep Learning for computer Vision and System Architecture <br/>
